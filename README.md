@@ -1,2 +1,2 @@
-# my-spring-app
-my-spring-app
+# my-spring-proj
+my-spring-proj
