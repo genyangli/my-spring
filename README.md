@@ -1,2 +1,2 @@
-# my-spring-proj
-my-spring-proj
+# my-spring
+my-spring
